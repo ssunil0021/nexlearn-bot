@@ -1,0 +1,42 @@
+{
+  "Linear Algebra": {
+    "Basis & Dimension": {
+      "youtube": [
+        "Beginner: https://youtu.be/xxxx",
+        "Concept Depth: https://youtu.be/yyyy",
+        "PYQ Solving: https://youtu.be/zzzz"
+      ],
+      "books": [
+        "Axler – Chapter 2 (pages 45–60)",
+        "Hoffman & Kunze – Section 2.3",
+        "Roman – Quick Revision"
+      ],
+      "practice": [
+        "Show that every basis is a minimal spanning set",
+        "Find a basis of the solution space of Ax = 0",
+        "CSIR-NET PYQ: Dimension of null space",
+        "GATE PYQ: Rank–Nullity"
+      ],
+      "insights": "Most students forget minimality. Basis = spanning + independent + minimal."
+    },
+
+    "Vector Spaces": {
+      "youtube": [
+        "Beginner: https://youtu.be/aaaa",
+        "Concept Depth: https://youtu.be/bbbb",
+        "PYQ Solving: https://youtu.be/cccc"
+      ],
+      "books": [
+        "Axler – Chapter 1",
+        "Hoffman & Kunze – Section 1.1"
+      ],
+      "practice": [
+        "Check whether a given set is a vector space",
+        "Find span of given vectors",
+        "CSIR-NET PYQ: axioms of vector space"
+      ],
+      "insights": "Always verify all axioms. Most mistakes happen by skipping closure."
+    }
+
+  }
+}
