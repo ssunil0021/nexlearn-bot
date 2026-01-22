@@ -176,3 +176,6 @@ app.add_handler(CallbackQueryHandler(open_topic, pattern="^topic\\|"))
 app.add_handler(CallbackQueryHandler(show_youtube, pattern="yt"))
 
 app.run_polling()
+import time
+while true:
+    time.sleep(1000)
